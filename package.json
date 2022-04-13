@@ -27,6 +27,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "commitlint": "^11.0.0",
+    "commitlint-config-gitmoji": "^2.2.5",
     "husky": "^7.0.0"
   }
 }
